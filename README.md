@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @cristyz
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning HTML, CSS, JS, REACT, VUE, Flutter and others frameworks...
+- ▶️ My [youtube channel](https://www.youtube.com/@devfront1672)
 
 <!---
 cristyz/cristyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
